@@ -25,4 +25,12 @@ This will create the executable file which can be executed by the following comm
 
     ./main <Directory path> <task number>
 
+# Tasks
+
+   1. Baseline Matching
+   2. Histogram Matching
+   3. Multi-histogram Matching
+   4. Textture and color Matching
+
 Make sure to replace <Directory path> and <task number> with the appropriate values for your use case.
+
